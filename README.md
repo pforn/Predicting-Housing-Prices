@@ -1,4 +1,4 @@
-# who-wants-to-make-a-robot
+# Predicting-stock-prices
 Western AI: Gideon
 
-Welcome Jack, Jonny, Ty and Ben.
+Using PyCharm and Pandas, this project creates a linear regression model of data set of stock prices.
